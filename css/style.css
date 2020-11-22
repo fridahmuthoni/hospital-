@@ -1,0 +1,49 @@
+
+  left: 0;h1{
+    background-color: #04a00b;
+    color: #FB0101;
+    text-shadow: 3px 3px grey;
+    border: 6%;
+    font-style: normal;
+    font-size: 36px;
+    font-family: IM FELL Double Pica;
+    text-align: left;
+}
+.nav {
+color: #F40909;
+font-size: 12px;
+float: right;
+width: 100%;
+font-weight: bold;
+}
+
+.nav li {
+    display: inline;
+    font-size: 20px;
+    padding: 20px;
+    color: red;
+    float: right;
+    text-decoration: none;
+
+}
+a:link{
+  text-decoration: none;
+}
+.image1{
+width: 100%;
+height:min-content;
+
+}
+
+
+footer{
+    background-color:#BBAACC;
+    height: 40px;
+    color: rgb(245, 0, 0);
+    position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 18px;
+  
+  }
